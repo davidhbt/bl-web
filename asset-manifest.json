@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.f9bb6329.css",
-    "main.js": "/static/js/main.3f0cf814.js",
+    "main.css": "/static/css/main.a754195d.css",
+    "main.js": "/static/js/main.c399df6f.js",
     "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
     "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
     "static/media/dummy-post-square-1-thegem-blog-default.jpg": "/static/media/dummy-post-square-1-thegem-blog-default.ffbda052347ad2a9afcd.jpg",
-    "index.html": "/index.html"
+    "index.html": "/index.html",
+    "main.a754195d.css.map": "/static/css/main.a754195d.css.map",
+    "main.c399df6f.js.map": "/static/js/main.c399df6f.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9bb6329.css",
-    "static/js/main.3f0cf814.js"
+    "static/css/main.a754195d.css",
+    "static/js/main.c399df6f.js"
   ]
 }
